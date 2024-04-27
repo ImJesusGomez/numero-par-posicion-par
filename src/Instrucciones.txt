@@ -1,0 +1,4 @@
+Instrucciones:
+Imagina que tienes un arreglo de números enteros y tu tarea es encontrar el primer número par en el arreglo.
+Si el número par está en una posición de índice par, debes detener la iteración.
+Si no, debes continuar hasta encontrar un número par en una posición de índice par o hasta que hayas revisado todo el arreglo.
